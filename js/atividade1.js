@@ -3,11 +3,11 @@
 // var listaDePecas = ['Motor', 'filtro de Ar', 'lanterna'];
 
 
-let peso = 10;
+let peso = 300;
 
 if(peso < 100){
     console.log('A peça deve passar no minimo 100g')
 
 }else{
-    console.log('Aceita')
+    console.log('A peça possui peso Adequado')
 }
