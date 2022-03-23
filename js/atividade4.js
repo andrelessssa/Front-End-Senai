@@ -11,6 +11,37 @@
 // alertar que o cadastro não será permitido por ter excedido
 // o limite.
 
-let dataEvento
-let idade
-let 
+
+
+var data = new Date();
+var dia = String(data.getDate()).padStart(2, '0');
+var mes = String(data.getMonth() + 1).padStart(2, '0');
+var ano = data.getFullYear();
+dataAtual = dia + '/' + mes + '/' + ano;
+console.log(dataAtual);
+var diaEvento = 23
+
+if (diaEvento <= (dia ) ) {
+    console.log('Data Inválida')
+}else{
+    console.log('Data permitida')
+}
+
+
+var idade = 20
+
+
+if (idade > 18){
+    console.log('Cadastro permitido ')
+
+}else{
+    console.log('Cadastro nao permitido pela idadde.')
+}
+
+var participante = ['Andre ','ana', 'maria']
+
+if (participante.length < 2){
+    console.log('Cadastro nao permitido, Limite de participantes excedido.  ')
+}else{
+    console.log('Nome Cadastrado Com Sucesso. ')
+}

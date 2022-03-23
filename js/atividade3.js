@@ -11,3 +11,4 @@ if (nomePeca.length > 2){   // foi observado que colocando 3 ele inclui 3 caract
     console.log('Nome da peça precisa ter no mínimo 3 caracteres.')
 
 }
+

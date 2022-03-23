@@ -17,3 +17,5 @@ console.log(nota);
 // && and
 // || or
 // ! not
+// teste
+
