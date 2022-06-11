@@ -10,18 +10,19 @@ header{
 }
 .logo a{
     color: white;
-    
-    
-    
+       
 }
 
 .caixaLink{
     background-color: black;
     margin-top: 5px;
     height: 50px;
-    text-align: center ;
-   
-                 
+    text-align: center ; 
+
+}
+.caixaLink nav{
+    padding:15px;
+    
 }
 
 .caixaLink a{
@@ -30,13 +31,12 @@ header{
     text-decoration: none;
     text-transform: uppercase;
     margin: 10px;
-   
     
-
+   
 }
 .banner{
     background-image: url(../img/banner.jpeg);
-    height: 300px;
+    height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -60,5 +60,10 @@ header{
 .rodape p{
     color: white;
 }
-
+.areaLogin{
+    height: 300px;
+}
+.copi p{
+    text-align: center;
+}
 
