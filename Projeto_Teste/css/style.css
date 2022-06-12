@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+
+    display: flex;
+    justify-content: space-between;
+
+        
+}
+ #container:hover{
+     background-color: blue;
+ } 
+ #logo{
+     border: 1px solid red;
+     width: 40%;
+ }  
+ #info{
+    border: 1px solid red;
+    width: 60%;
+
+ }  
+ #content{
+    border: 1px solid red;
+    
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+
+
+
+
+ }
+ #caixa{
+     height: 100px;
+     width: 100%;
+     background-color: blueviolet;
+     border: 2px solid;
+ }

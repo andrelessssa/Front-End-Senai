@@ -4,9 +4,15 @@ header{
     background-color: black;
     height: 170px; 
     display: flex;
-    justify-content: space-evenly;
-    align-items: baseline;
+   
+    
        
+}
+header div{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+
 }
 .btn button { 
     background-color:blue; 
