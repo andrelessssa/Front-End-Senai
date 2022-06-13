@@ -58,9 +58,25 @@ display: flex;
     
    
 }
+.produtobanner{
+    background-color: #0f642f;
+    margin: 50px;
+    display: flex;
+    height: 400px;
+    padding: 50px;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 10px;
+    
+     
+}
+#img-1{
+    background-image: url(../img/.jpg);
+}
 
 
 /*conteudo */
+
 
 .container{
     background-color: #EEE;
@@ -89,6 +105,12 @@ display: flex;
     background-position: center;
     background-size: cover;
     
+}
+#banner{
+
+    background-image: url(../img/banner.jpeg);
+    background-repeat: no-repeat;
+
 
 }
 #img-1{
@@ -135,6 +157,7 @@ h3{
 }
 .bold{
     font-weight: bold;
+
 }
 
 /*rodape */
@@ -145,8 +168,10 @@ footer{
     text-align: center;
     padding: 50px;
 
-
 }
+                             /*TELA DE LOGIN */
+                             
+
+
 
     
-]
