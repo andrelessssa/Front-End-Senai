@@ -174,25 +174,20 @@ footer{
     text-align: center;
     padding: 50px;
     
-   
-    
-   
+  
 
 }
-                             /*TELA DE LOGIN 
+                             /*TELA DE LOGIN */
 
 .formulario{
-    background-color: #0f642f;
-   
-    margin-top: 5px;
-    height: 50px;
-    display: flex;
-    justify-content: space-around;
-   
-    
+    background-color: #EEEEEE;
+    height: 300px;
+    margin: 20px;
+    padding: 10px;
+    display: flex;   
 
 }                            
-*/
+
 
 
     
