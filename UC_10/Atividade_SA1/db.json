@@ -1,0 +1,16 @@
+{
+    "noticias" : [
+        {
+            "id": 1,
+            "imagem": "",
+            "titulo": "Teste",
+            "descricao":"testando json"
+        },
+        {
+            "id": 2,
+            "imagem": "",
+            "titulo": "Teste",
+            "descricao":"testando json"
+        }
+    ]
+}
