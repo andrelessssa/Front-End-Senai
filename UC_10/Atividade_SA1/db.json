@@ -1,40 +1,44 @@
 {
   "users": [
-   
+    {
+      "email": "andre@gmail.com",
+      "password": "Bola",
+      "id": 3
+    }
   ],
   "noticias": [
     {
-      "imagem": "",
+      "imagem": "assets/img/bola.jpg",
       "titulo": "Bola",
       "descricao": "testando json",
       "id": 2
     },
     {
-      "imagem": "",
+      "imagem": "assets/img/pipa.jpg",
       "titulo": "pipa",
       "descricao": "testando json",
       "id": 3
     },
     {
-      "imagem": "",
+      "imagem": "assets/img/cardnews.png",
       "titulo": "piao",
       "descricao": "testando json",
       "id": 4
     },
     {
       "id": 5,
-      "imagem": "assets/img/canids.jpg",
+      "imagem": "assets/img/cardnews.png",
       "titulo": "Promocao",
       "descricao": "queima de preco"
     },
     {
       "id": 6,
-      "imagem": "assets/img/cardnews.jpg",
+      "imagem": "assets/img/cardnews.png",
       "titulo": "Promocao 2",
       "descricao": "queima de preco 2"
     },
     {
-      "email": "andre@gmail.com",
+      "email": "assets/img/cardnews.png",
       "password": "12345",
       "nome": "andre",
       "id": 7
